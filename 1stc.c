@@ -12,7 +12,7 @@ char a[]="satyakam" ;
 for(i=0;i<8;i++)
 {
 P2=a[i];
-	
+printf("HERO")	
 delay();
 }
 
