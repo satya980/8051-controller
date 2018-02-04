@@ -1,2 +1,2 @@
 # 8051-controller
-codes
+MINI Projects at CTTC
