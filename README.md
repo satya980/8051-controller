@@ -1,2 +1,2 @@
 # 8051-controller
-MINI Projects at CTTC
+All projects are done in C
